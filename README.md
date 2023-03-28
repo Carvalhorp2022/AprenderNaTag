@@ -7,6 +7,4 @@ Conhecimento
 
 Inicio dos trabalhos
 
-Vamos que vamos!
-    
-
+Vamos que vamos
