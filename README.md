@@ -1,5 +1,8 @@
 # AprenderNaTag
+
 Aprender Na Tag
 
-Vamos que vamos!
-    
+Programar 
+
+Programar para se desenvolver   =======
+Vamos que vam
