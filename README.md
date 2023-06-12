@@ -19,3 +19,5 @@ Projeto DEV
 Virando DEV
 
 Realizando mudanças no Rider, sem usar o propt de comando
+
+Não sei ainda fazer mudança aqui no GitHub, sem usar o propt de comando
