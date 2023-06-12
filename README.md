@@ -19,3 +19,5 @@ Virando DEV
 Apresentação DataDog chegando
 
 O proprio GitHub alterou a Branch
+
+Realizando commit direto aqui, sem propt de comando
